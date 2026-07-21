@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=ZorinBlue-Light
-Comment=The light desktop theme with blue highlights for Zorin OS
+Name=Arc.Teal-Light
+Comment=Designed, for pleasure.
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=ZorinBlue-Light
-MetacityTheme=ZorinBlue-Light
-IconTheme=ZorinBlue-Light
-CursorTheme=Adwaita
-ButtonLayout=:minimize,maximize,close
+GtkTheme=Arc.Teal-Light
+MetacityTheme=Arc.Teal-Light
+IconTheme=Arcanum - Teal
+CursorTheme=AppleCursor-Monterey
+ButtonLayout=:close,maximize,minimize
